@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-      <h1>WELCOME TO EC2 RUNNING INSTANCE OF RUDRAKSHI..</h1>
+      <h1>WELCOME TO EC2 RUNNING INSTANCE !!!</h1>
       <h3>LAUNCH !!! ......</h3>
     </div>
   );
